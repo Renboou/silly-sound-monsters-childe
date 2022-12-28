@@ -1,0 +1,17 @@
+body
+{
+background-image: url("mega cool background for a mega cool thing.png");
+background-position: center;
+background-size: cover;
+color:rgb(145, 149, 125);
+
+}
+#sillystartbutton
+{
+color:rgb(229, 237, 192);
+background-color:rgb(145, 149, 125);
+border-radius:10px;
+border: 3px;
+border-style:solid;
+border-color: white;
+}
